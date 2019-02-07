@@ -2,9 +2,6 @@
 <a href="https://cmc-kumar.github.io/pnc_website/Account%20Summary.html">Account Summary.html</a>
 
 
-<a href="https://cmc-kumar.github.io/pnc_website/accsumm-old.html">accsumm-old.html</a>
-
-
 <a href="https://cmc-kumar.github.io/pnc_website/Add%20New%20Bank%20Account.html">Add New Bank Account.html</a>
 
 
